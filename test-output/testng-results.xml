@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="1" total="5" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="85" started-at="2023-07-06T06:24:36Z" finished-at="2023-07-06T06:24:36Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="85" started-at="2023-07-06T06:24:36Z" finished-at="2023-07-06T06:24:36Z">
+      <class name="org.testNGsample.Sample">
+        <test-method status="PASS" signature="tc1()[pri:0, instance:org.testNGsample.Sample@5abca1e0]" name="tc1" is-config="true" duration-ms="21" started-at="2023-07-06T06:24:36Z" finished-at="2023-07-06T06:24:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc1 -->
+        <test-method status="PASS" signature="tc2()[pri:0, instance:org.testNGsample.Sample@5abca1e0]" name="tc2" is-config="true" duration-ms="1" started-at="2023-07-06T06:24:36Z" finished-at="2023-07-06T06:24:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc2 -->
+        <test-method status="PASS" signature="tc7()[pri:1, instance:org.testNGsample.Sample@5abca1e0]" name="tc7" duration-ms="7" started-at="2023-07-06T06:24:36Z" finished-at="2023-07-06T06:24:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc7 -->
+        <test-method status="PASS" signature="tc4()[pri:0, instance:org.testNGsample.Sample@5abca1e0]" name="tc4" is-config="true" duration-ms="0" started-at="2023-07-06T06:24:36Z" finished-at="2023-07-06T06:24:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc4 -->
+        <test-method status="PASS" signature="tc2()[pri:0, instance:org.testNGsample.Sample@5abca1e0]" name="tc2" is-config="true" duration-ms="1" started-at="2023-07-06T06:24:36Z" finished-at="2023-07-06T06:24:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc2 -->
+        <test-method status="PASS" signature="tc5()[pri:2, instance:org.testNGsample.Sample@5abca1e0]" name="tc5" duration-ms="2" started-at="2023-07-06T06:24:36Z" finished-at="2023-07-06T06:24:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc5 -->
+        <test-method status="PASS" signature="tc4()[pri:0, instance:org.testNGsample.Sample@5abca1e0]" name="tc4" is-config="true" duration-ms="0" started-at="2023-07-06T06:24:36Z" finished-at="2023-07-06T06:24:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc4 -->
+        <test-method status="PASS" signature="tc2()[pri:0, instance:org.testNGsample.Sample@5abca1e0]" name="tc2" is-config="true" duration-ms="4" started-at="2023-07-06T06:24:36Z" finished-at="2023-07-06T06:24:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc2 -->
+        <test-method status="PASS" signature="tc5()[pri:2, instance:org.testNGsample.Sample@5abca1e0]" name="tc5" duration-ms="3" started-at="2023-07-06T06:24:36Z" finished-at="2023-07-06T06:24:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc5 -->
+        <test-method status="PASS" signature="tc4()[pri:0, instance:org.testNGsample.Sample@5abca1e0]" name="tc4" is-config="true" duration-ms="1" started-at="2023-07-06T06:24:36Z" finished-at="2023-07-06T06:24:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc4 -->
+        <test-method status="PASS" signature="tc2()[pri:0, instance:org.testNGsample.Sample@5abca1e0]" name="tc2" is-config="true" duration-ms="1" started-at="2023-07-06T06:24:36Z" finished-at="2023-07-06T06:24:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc2 -->
+        <test-method status="PASS" signature="tc5()[pri:2, instance:org.testNGsample.Sample@5abca1e0]" name="tc5" duration-ms="0" started-at="2023-07-06T06:24:36Z" finished-at="2023-07-06T06:24:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc5 -->
+        <test-method status="PASS" signature="tc4()[pri:0, instance:org.testNGsample.Sample@5abca1e0]" name="tc4" is-config="true" duration-ms="0" started-at="2023-07-06T06:24:36Z" finished-at="2023-07-06T06:24:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc4 -->
+        <test-method status="PASS" signature="tc3()[pri:0, instance:org.testNGsample.Sample@5abca1e0]" name="tc3" is-config="true" duration-ms="0" started-at="2023-07-06T06:24:36Z" finished-at="2023-07-06T06:24:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc3 -->
+      </class> <!-- org.testNGsample.Sample -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
